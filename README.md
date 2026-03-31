@@ -1,0 +1,1 @@
+application developed in Kotlin that provides users with social interaction suggestions based on the time of day. It uses conditional logic to process user input and display relevant outputs, and includes error handling and reset functionality.
